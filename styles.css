@@ -1202,3 +1202,10 @@ img {
   object-fit: contain;
   filter: drop-shadow(0 0 22px rgba(0, 210, 255, 0.45));
 }
+body.books-page {
+  background-image: url("images/Website Background.png");
+  background-size: cover;
+  background-position: center top;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
