@@ -1208,3 +1208,10 @@ body.books-page {
 body.books-page .site-header {
     background: url("images/Website Background.png") center top / cover no-repeat !important;
 }
+body.books-page .site-header {
+    background-image: url("images/Website Background.png") !important;
+    background-size: cover !important;
+    background-position: center top !important;
+    background-repeat: no-repeat !important;
+    background-color: transparent !important;
+}
