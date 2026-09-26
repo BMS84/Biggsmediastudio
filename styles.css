@@ -1215,3 +1215,9 @@ body.books-page .site-header {
     background-repeat: no-repeat !important;
     background-color: transparent !important;
 }
+body.books-page .cinematic-hero {
+    background-image: url("images/Website Background.png") !important;
+    background-size: cover !important;
+    background-position: center center !important;
+    background-repeat: no-repeat !important;
+}
