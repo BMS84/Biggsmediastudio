@@ -1205,3 +1205,6 @@ img {
 body.books-page {
     background: url("images/Website Background.png") center top / cover no-repeat fixed !important;
 }
+body.books-page .site-header {
+    background: url("images/Website Background.png") center top / cover no-repeat !important;
+}
