@@ -403,9 +403,18 @@ img {
 /* HERO SCI-FI WORLD */
 
 .hero-world {
-  position: relative;
-  height: 480px;
-  align-self: end;
+    position: relative;
+    height: 480px;
+    align-self: end;
+}
+
+.hero-world-image {
+    width: 100%;
+    max-width: 420px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    object-fit: contain;
 }
 
 .planet {
